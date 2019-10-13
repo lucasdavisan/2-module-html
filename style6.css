@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+}
+
+.texto {
+    width: 300px;
+    height: 100px;
+    background-color: #EEEEEE;
+    color: #FF0000;
+    font-size: 12px;
+    font-family: Helvetica, Verdana;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 10px;
+
+    display: inline-block;
+}
