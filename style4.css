@@ -1,0 +1,20 @@
+body {
+    margin: 0px;
+}
+
+.texto {
+    width: 700px;
+    height: 500px;
+    background-color: #EEEEEE;
+    color: #FF0000;
+    font-size: 15px;
+    font-family: Helvetica, Verdana;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 20px;
+}
